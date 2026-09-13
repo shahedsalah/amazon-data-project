@@ -49,10 +49,10 @@ It also showed me how **AI tools can support the development process** when deal
 ## 📸 Data Transformation
 
 ### Raw Scraped Data
-![Raw Scraped Data](images/raw_scraped_data.png)
+![Raw Scraped Data](raw_scraped_data.png)
 
 ### Initial Data Cleaning
-![Initial Cleaned Data](images/initial_cleaned_data.png)
+![Initial Cleaned Data](initial_cleaned_data.png)
 
 ### Final Structured Dataset
-![Final Cleaned Data](images/final_cleaned_data.png)
+![Final Cleaned Data](final_cleaned_data.png)
